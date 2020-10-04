@@ -2,7 +2,7 @@
 Apple Clone
 </h1>
 
-<p align="center">Apple Homepage made for study purposes (not finished yet)./p>
+<p align="center">Apple Homepage made for study purposes (not finished yet).</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -14,7 +14,6 @@ Apple Clone
 
 ## Participants
 
-[<img src="https://avatars2.githubusercontent.com/u/71460757?s=460&u=770639956af2959d35b2c83cdc623bff47e54395&v=4"/>](https://github.com/brnmpto)
 
 [Bruno](https://github.com/brnmpto)
 
